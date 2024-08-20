@@ -1,0 +1,77 @@
+object_0.png:
+ 
+
+
+object_4.png:
+Wy
+
+
+object_10.png:
+
+
+object_2.png:
+
+
+object_6.png:
+ 
+
+
+object_3.png:
+ 
+
+
+object_1.png:
+
+
+object_7.png:
+
+
+object_9.png:
+
+
+object_5.png:
+
+
+object_8.png:
+
+
+object_11.png:
+
+
+object_13.png:
+
+
+object_12.png:
+ 
+
+
+object_15.png:
+
+
+object_14.png:
+
+
+object_19.png:
+ 
+
+
+object_17.png:
+ 
+
+
+object_16.png:
+
+
+object_20.png:
+
+
+object_18.png:
+
+
+object_22.png:
+
+
+object_21.png:
+ 
+
+

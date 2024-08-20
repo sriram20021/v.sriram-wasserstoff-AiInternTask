@@ -1,0 +1,140 @@
+[
+    {
+        "object_id": 1,
+        "description": "Object 1",
+        "extracted_text": " \n\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 2,
+        "description": "Object 2",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 3,
+        "description": "Object 3",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 4,
+        "description": "Object 4",
+        "extracted_text": " \n\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 5,
+        "description": "Object 5",
+        "extracted_text": "Wy\n\f",
+        "summary": " Wy Wyler: Wyler is a world-renowned artist and artist . Wyler has been in the news for more than a decade, including his work in the U.S."
+    },
+    {
+        "object_id": 6,
+        "description": "Object 6",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 7,
+        "description": "Object 7",
+        "extracted_text": " \n\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 8,
+        "description": "Object 8",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 9,
+        "description": "Object 9",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 10,
+        "description": "Object 10",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 11,
+        "description": "Object 11",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 12,
+        "description": "Object 12",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 13,
+        "description": "Object 13",
+        "extracted_text": " \n\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 14,
+        "description": "Object 14",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 15,
+        "description": "Object 15",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 16,
+        "description": "Object 16",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 17,
+        "description": "Object 17",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 18,
+        "description": "Object 18",
+        "extracted_text": " \n\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 19,
+        "description": "Object 19",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 20,
+        "description": "Object 20",
+        "extracted_text": " \n\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 21,
+        "description": "Object 21",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 22,
+        "description": "Object 22",
+        "extracted_text": " \n\f",
+        "summary": "No meaningful text found."
+    },
+    {
+        "object_id": 23,
+        "description": "Object 23",
+        "extracted_text": "\f",
+        "summary": "No meaningful text found."
+    }
+]
