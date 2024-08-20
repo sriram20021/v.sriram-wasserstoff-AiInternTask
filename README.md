@@ -1,1 +1,37 @@
-{"nbformat":4,"nbformat_minor":0,"metadata":{"colab":{"provenance":[],"authorship_tag":"ABX9TyNtdj69tjB/wTuygGwLhkmd"},"kernelspec":{"name":"python3","display_name":"Python 3"},"language_info":{"name":"python"}},"cells":[{"cell_type":"code","execution_count":1,"metadata":{"colab":{"base_uri":"https://localhost:8080/","height":106},"id":"La9NpApJYavP","executionInfo":{"status":"error","timestamp":1724150611817,"user_tz":-330,"elapsed":23,"user":{"displayName":"v. sriram","userId":"01570108533751671704"}},"outputId":"d7bb0d3a-7449-4d1b-9e42-e97d6b6e5121"},"outputs":[{"output_type":"error","ename":"SyntaxError","evalue":"invalid syntax (<ipython-input-1-565fb7ce91ea>, line 4)","traceback":["\u001b[0;36m  File \u001b[0;32m\"<ipython-input-1-565fb7ce91ea>\"\u001b[0;36m, line \u001b[0;32m4\u001b[0m\n\u001b[0;31m    - **Segmentation**: Use Mask R-CNN for object segmentation.\u001b[0m\n\u001b[0m      ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"]}],"source":["# Building an AI Pipeline for Image Segmentation and Object Analysis\n","\n","## Approach and Implementation\n","- **Segmentation**: Use Mask R-CNN for object segmentation.\n","- **Extraction**: Extract and store segmented objects.\n","- **Identification**: Use YOLO for object identification.\n","\n","## Object Extraction and Storage\n","- **Extraction**: Save segmented objects with unique IDs.\n","- **Storage**: Save images and metadata.\n","\n","## Object Identification\n","- **Identification**: Describe objects using YOLO.\n","\n","## Text/Data Extraction\n","- **Extraction**: Use Tesseract OCR for text extraction.\n","\n","## Summarize Object Attributes\n","- **Summarization**: Generate summaries for each object.\n","\n","## Data Mapping\n","- **Mapping**: Map data to objects and the master image.\n","\n","## Output Generation\n","- **Output**: Generate annotated images and summary tables.\n","\n","## Results\n","- **Segmentation**: Accurate segmentation of objects.\n","- **Text Extraction**: Efficient processing and summarization.\n","\n","# Challenges\n","- Diverse and complex images.\n","- Ensuring pipeline robustness.\n","\n","## Future Work\n","- Improve model accuracy.\n","- Support more image formats.\n"]}]}
+# Building an AI Pipeline for Image Segmentation and Object Analysis
+
+## Approach and Implementation
+- **Segmentation**: I have used Mask R-CNN and different models for object segmentation.
+- **Extraction**: Extracted and stored segmented objects.
+- **Identification**: Used YOLO for object identification.
+
+## Object Extraction and Storage
+- **Extraction**: Saving segmented objects with unique IDs.
+- **Storage**: Save images and metadata.
+
+## Object Identification
+- **Identification**: Describing objects using YOLO.
+
+## Text/Data Extraction
+- **Extraction**:I have Used Tesseract OCR for text extraction.
+
+## Summarize Object Attributes
+- **Summarization**: Generateing summaries for each object.
+
+## Data Mapping
+- **Mapping**: Mapping data to objects and the master image.
+
+## Output Generation
+- **Output**: Generateing annotated images and summary tables.
+
+## Results
+- **Segmentation**: Accurate segmentation of objects.
+- **Text Extraction**: Efficient processing and summarization.
+
+# Challenges
+- Diverse and complex images.
+- Ensuring pipeline robustness.
+
+## Future Work
+- Improve model accuracy.
+- Support more image formats.
