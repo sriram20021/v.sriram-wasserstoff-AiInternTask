@@ -1,0 +1,11 @@
+opencv-python
+scikit-image
+pillow
+pixellib
+tensorflow-gpu
+scikit-image
+pillow
+pixellib
+tensorflow-gpu
+pre-trained segmentation models
+pytesseract
